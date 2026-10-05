@@ -90,7 +90,7 @@ urlretrieve(
 linkcheck_ignore = [
     # These sites blocked CI
     r"https://doi\.org/\d+",
-    "http://joinslack.astropy.org",
+    "http://join.slack.com",
     "https://astropy.slack.com",
     "https://numfocus.medium.com/",
     "https://numfocus.myspreadshop.com/",

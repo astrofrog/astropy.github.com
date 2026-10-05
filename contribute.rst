@@ -19,7 +19,7 @@ There are several ways in which you can give feedback.
 - If you have feedback you would prefer to keep private, you can e-mail feedback@astropy.org.
   This address points to a private mailing list that includes the astropy core developers.
   If you would like a reply (e.g., an acknowledgement of your comment), please request it.
-- For the extremely impatient, astropy developers often can be found in the `Astropy Slack team <https://astropy.slack.com>`__ (get an account `here <http://joinslack.astropy.org>`__).
+- For the extremely impatient, astropy developers often can be found in the `Astropy Slack team <https://astropy.slack.com>`__ (get an account `here <https://join.slack.com/t/astropy/shared_invite/zt-4c1p8lbom-GuaB46o3rPd0ZRJh6MR_kQ>`__).
   Slack is basically a live web chat.
 - If you would like to participate in discussions about how the Project is run, please join the `Developer Email List [astropy-dev] <https://groups.google.com/group/astropy-dev>`__.
 

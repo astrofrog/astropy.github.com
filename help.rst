@@ -14,7 +14,7 @@ most comfortable with.
   on Google, and displays code snippets well. Please head over and
   ask (and answer) questions.
 - `Astropy Slack workspace <https://astropy.slack.com>`__ (`get an
-  account <http://joinslack.astropy.org>`__) - This forum is
+  account <https://join.slack.com/t/astropy/shared_invite/zt-4c1p8lbom-GuaB46o3rPd0ZRJh6MR_kQ>`__) - This forum is
   primarily focused on developing and maintaining the Astropy
   project, but the ``#community-help`` channel is a good place for
   users to seek help from the Astropy community.
